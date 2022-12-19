@@ -143,7 +143,7 @@ function limpiarHTML(){
 function paginaRespuesta(){
        respuesta.innerHTML = `
        
-       <img src="https://cdnb.20m.es/videojuegos/files/2011/04/narutoshippuden.jpg" alt="" />
+       <img id = "imagenrespuesta" src="https://cdnb.20m.es/videojuegos/files/2011/04/narutoshippuden.jpg" alt="" />
        Tu puntaje es: ${puntaje}`;
 }
 
