@@ -12,7 +12,8 @@
 body{ 
     background-image:url(https://p4.wallpaperbetter.com/wallpaper/81/388/855/anime-cityscape-landscape-scenery-wallpaper-preview.jpg);
     font-family:'Mochiy Pop P One', sans-serif;
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
+    width: 800px;
     
 }
 
