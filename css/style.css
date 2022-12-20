@@ -12,6 +12,7 @@
 body{ 
     background-image:url(https://p4.wallpaperbetter.com/wallpaper/81/388/855/anime-cityscape-landscape-scenery-wallpaper-preview.jpg);
     font-family:'Mochiy Pop P One', sans-serif;
+    background-repeat: no-repeat
     
 }
 
@@ -28,6 +29,8 @@ body{
     border: 2px solid #e4b5ca;
     margin: 0.5rem auto; 
     padding: 1rem;
+    background-image:url(https://www.shutterstock.com/image-illustration/anime-manga-landscape-dusk-4k-260nw-2187520383.jpg);
+    background-repeat: no-repeat;
 }
 
 .subGrupo__opciones{ 
@@ -36,7 +39,7 @@ body{
     width: 70%;
     margin: 1rem auto;
     border: 2px solid #ffd6ff;
-    background-image:url(https://www.shutterstock.com/image-illustration/anime-landscape-illustration-small-river-260nw-2206227513.jpg);
+  
 }
 
 .subGrupo__opcion{ 
@@ -83,7 +86,7 @@ body{
 }
 
 #imagenrespuesta{
- width: 684px;
+ width: 680px;
 }
  
  
